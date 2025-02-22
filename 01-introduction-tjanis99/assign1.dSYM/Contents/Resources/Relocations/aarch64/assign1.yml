@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/trevorjanis/Developer/csci340/01-introduction-tjanis99/assign1'
+relocations:     []
+...
